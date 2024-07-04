@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.name{
+margin-bottom: 20px;
+margin-top: 20px;
+}
+.img{
+    padding: 0px;
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 50px;
+}
+.self-p{
+    margin-top: 20px;
+    width: 360px;
+}
+.skill-div{
+    padding-left: 72px !important;
+}
+.skill-div-icon{
+  border-radius: 10px;
+  height: 50px;
+  width: 50px;
+}
+.skill-div-p{
+    color: #212529;
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    width: 300px;
+}
+.footer-ul{
+    border-bottom: 0px !important;
+}
+.footer-contact{
+    text-align: center;
+}
